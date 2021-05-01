@@ -1,2 +1,3 @@
 # exe-quadratic-equation-python
-This repository is a exercise about quadratic equation calculating. There is a unit test to test the methods of the quadratic equation module.
+
+Este repositório é um exercício sobre cálculo de equações quadráticas em Python. Existe um teste de unidade para testar os métodos do módulo de equação quadrática.
